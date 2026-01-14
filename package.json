@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "nodemailer": "^7.0.6"
+  }
+}
